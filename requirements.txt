@@ -1,0 +1,16 @@
+argparse
+asyncio
+fastapi
+fastapi-mcp
+langchain
+langchain-openai
+langchain-mcp-adapters
+langgraph
+openai
+openapi-schema-pydantic
+pandas
+pydantic
+python-dotenv
+pyyaml
+requests
+uvicorn
